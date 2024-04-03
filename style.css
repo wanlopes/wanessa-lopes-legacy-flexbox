@@ -4,7 +4,17 @@
     justify-content: center;
 }
 
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 3em;
+    border-bottom: 2px solid pink;
+    width: 400px;
+    text-align: center;
+}
+
 img {
     width: 450px;
     height: 300px;
+    margin: 10px;
 }
